@@ -1,3 +1,4 @@
+# yahir sifuentes NC = 0142 
 import cv2
 import numpy as np
 
@@ -72,3 +73,5 @@ cv2.waitKey(0)
 
 # Cerrar ventanas
 cv2.destroyAllWindows()
+
+print("programa realizado por yahir sifuentes NC = 0142 ")
